@@ -1,0 +1,651 @@
+*{
+	padding:0px;
+margin:0px;
+}
+#container{
+	background-image:url("./computer background.png");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	width:100%;
+	height:880px;
+	z-index:-1;
+	
+	
+}
+#navbar{
+	font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+	display:flex;
+	z-index:-1;
+	cursor:pointer;
+
+}
+#logo{
+	padding:10px;
+	margin:15px;
+	height:34px;
+	width:45px;
+	cursor:none;
+	
+
+}
+.img{
+	padding:0px;
+	height:30px;
+	width:30px;
+}
+.ul{
+	display:flex;
+}
+
+.item{
+	list-style:none;
+	text-decoration:none;
+
+	
+}
+ a{
+	display:block;
+	 color:white;
+	font-size:25px;
+	padding:15px;
+	margin:20px;
+	text-decoration: none;
+}
+a:hover{
+	color:red;
+	
+}
+#design{
+	padding-top:50px;
+	font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+	display:flex;
+	justify-content:center;
+	margin:0px;
+	color:white;
+	
+}
+#head{
+font-size:20px;
+margin:30px;
+padding-top:50px;
+padding:30px;
+}
+#mockplus{
+	font-size:60px;
+	padding-top:50px;
+}
+#prototype{
+	font-size:30px;
+	padding-top:40px;
+	padding-left:100px;
+	padding-bottom:100px;
+
+	
+} 	
+#btn{
+
+background:red;
+border-radius:10px;
+justify-content:center;
+text-decoration:none;
+color:white;
+padding:9px 20px;
+margin:10px  280px ;
+cursor:pointer;
+
+}
+#play{
+	height:18px;
+	width:18px;
+	padding:0px 20px;
+	margin:5px;
+		padding-top:80px;
+	padding-left:0px;
+	padding-right:400px;
+
+}
+
+.vedio{
+	font-size:25px;
+	padding:1px 200px;
+	margin:5px;
+	cursor:pointer;
+	padding-top:80px;
+	padding-left:290px;
+
+
+}
+#inner{
+	font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+	display:flex;
+	justify-content:center;
+	font-size:20px;
+	color:black;
+	padding-top:100px;
+}
+	
+	
+
+
+#proto{
+	font-size:40px;
+	float:left;
+	
+}
+.banner{
+	font-size:50px;
+}
+.scable{
+	font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+	display:flex;
+	justify-content:center;
+	font-size:20px;
+	color:black;
+	padding:10px;
+	margin:5px;
+	
+}
+
+.mono{
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	padding:5px;
+	margin:30px;
+	
+}
+.protype{
+	
+	height:60px;
+	width:100px;
+	padding:5px;
+	margin:2px 60px;
+}
+	
+.global{
+	font-size:15px;
+	padding:2px 20px;
+}
+.mockplus{
+	padding:15px;
+}
+.mockpluscloud{
+	font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+	padding:5px;
+	margin:5px;
+	padding-top:100px;
+	
+}
+
+
+.joshi{
+	float:right;
+	padding-top;100px;
+	
+	
+}
+.deepak{
+	height:527px;
+	width:850px;
+	float:right;
+	padding-top:100px;
+	
+}
+	
+.mock{
+	font-size:20px;
+	
+}
+.cloud{
+	font-size:40px;
+	color:red;
+	
+}
+.product{
+	font-size:40px;
+}
+	
+.write{
+padding:2px;
+margin:5px;
+
+}	
+.productmanager{
+	font-size:20px;
+	background:lightgrey;
+	width:600px;
+}
+.designer{
+	font-size:15px;
+}
+.mock{
+	font-size:40px;
+}
+.upload{
+	font-size:20px;
+}
+.frontend{
+	font-size:20px;
+}
+
+.learn{
+	font-size:40px;
+	color:red;
+	
+}
+.head{
+	color:red;
+}
+.arrow{
+	height:20px;
+	width:40px;
+	
+	
+}
+.web{
+	font-size:20px;
+	
+}
+.john{
+	float:left;
+	height:500pt;
+	width:40%;
+	margin:20px;
+	overflow: hidden;
+	display: flex;
+	flex-wrap: wrap;
+	padding-top:100px;
+	/*background-image: url("https://www.mockplus.com/enUS/images/list-img1_3.png");
+	background-size: 100% 100*/
+	/*	animation:change-image;
+	animation-duration:20s;
+	animation-iteration-count:infinite;
+
+	
+	
+	}
+@keyframes change-image{
+	0%{
+		background-image: url("https://www.mockplus.com/enUS/images/list-img2_1-t.webp");
+		transform: translate(0%);
+		
+		
+	}
+	50%{
+		background-image: url("https://www.mockplus.com/enUS/images/list-img1_3.png");
+		transform:translate(100%)
+		
+		
+	}
+	100%{
+		background-image:url("https://www.mockplus.com/enUS/images/list-img1_2.png");
+
+}*/
+}
+	
+
+
+.posion{
+	display:flex;
+	justify-content:center;
+	font-size:40px;
+	padding-right:30px;
+	padding-left:10px;
+	font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+cursor:pointer;
+padding-top:100px;
+
+	
+}
+.prototypes{
+	font-size:20px;
+}
+.mockplusrp{
+	font-size:40px;
+	color:red;
+}
+
+.fast{
+	font-size:30px;
+	display: block;
+}
+
+.fast:hover .garden{
+	background-color: red;
+	display: block;
+}
+
+.interactions{
+	font-size:30px;
+}
+.share{
+	font-size:20px;
+}
+.create{
+	font-size:20px;
+}
+.access{
+	font-size:20px;
+}
+
+.testing{
+	font-size:30px;
+}
+.arrow{
+	height:15px;
+	width:30px;
+}
+.learn{
+	font-size:20px;
+}
+
+
+.mockplusdp{
+	font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+	
+	padding-top:100px;
+	padding-left:20px;
+	padding-bottom:200px;
+	cursor:pointer;
+	
+	
+
+	
+	
+}
+
+.mockplusdeepak{
+	float:left;
+	font-size:20px;
+	
+	
+	
+}
+.manage{
+	font-size:20px;
+	padding-top:50px;
+
+
+	
+}
+.manage:hover{
+	color:red;
+}
+.mockplusds{
+	font-size:40px;
+	
+}
+.mockplusds:hover{
+	color:red;
+}
+.libries{
+	font-size:40px;
+}
+.libries:hover{
+	color:red;
+}
+	
+.design{
+	font-size:20px;
+}
+
+.work{
+	font-size:40px;
+}
+.intergration{
+	font-size:20px;
+	
+}
+
+.sync{
+	font-size:40px;
+}
+.more
+{
+	font-size:30px;
+	color:red;
+}
+.symbol{
+	height:25px;
+	width:40px;	
+}
+
+.deepakrp{
+	float:right;
+	padding-bottom:100px;
+	
+}
+
+
+
+.hadow{
+	height:60%;
+	width:45%;
+	padding:40px;
+	float:right;
+	padding-top:100px;
+	
+}
+
+
+.rp{
+	height:	400px;
+	width:400px;
+	padding-top:100px;
+	
+	margin:40px;
+	float:left;
+	justify-content:center;
+	
+	
+}
+.user{
+	padding-top:150px;
+}
+.trut{
+	font-size:60px;
+	padding-left:50px;
+	
+}
+.babich{
+	font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+	font-size:20px;
+	display:flex;
+	float:left;
+	text-align:center;
+	background-color:lightgrey;
+	margin-bottom:100px;
+	
+	
+	
+	
+}
+.nickbabich{
+	font-size:20px; 
+	padding:30px;
+	margin:20px;
+	padding-top:30px;
+	
+}
+
+.architect{
+	color:red;
+}
+	
+
+#nick{
+height:100px;
+width:150px;
+display:flex;
+justify-content:center;
+padding-left:225px;
+
+}
+.microsoft{
+	display:flex;
+	justify-content:center;
+	font-size:40px;
+	border:1px solid  white;
+	border-radius:20px;
+
+	
+	
+	
+	
+	
+}
+
+.success{
+text-align:center;
+font-size:50px;
+padding-top:100px;
+padding-bottom:20px;
+}
+
+	
+
+	
+
+	
+	
+}
+.arvato{
+	height:100px;
+	width:50px;
+
+	padding-left:30px;
+	
+}
+.img3{
+	height:100px;
+	width:100px;
+	padding:90px;
+	padding-left:20px;
+	padding-bottom:70px;
+	
+	
+}
+#imgjd{
+	height:400pt;
+	width:700pt;
+	padding:0px;
+	opacity:2rem;
+	
+}
+#imgdp{
+	height:400pt;
+	width:300pt;
+	padding:0px
+	opacity:2rem;
+}
+/
+
+
+.steamline{
+display:flex;
+justify-content:center;
+font-size:40px;
+padding-top:100px;
+border:1px solid red;
+
+
+}
+.workflow{
+	padding-top:100px;
+	text-align:center;
+	font-size:30px;
+	background-color:red;
+	border:1px solid red;
+	border-radius:10px;
+	margin:50px;
+	padding-left:20px;
+	padding-right:20px;
+	padding-bottom:10px;
+}
+
+.delpoment{
+	display:flex;
+	justify-content :center;
+	text-align:center;
+	font-size:50px;
+}
+.easy{
+font-size:40px;
+padding:30px;
+margin:30px;
+}
+#btun{
+	background-color:white;
+	color:red;
+	border:1px solid black;
+	padding:5px;
+border-radius:2px;
+padding-bottom:5px;
+cursor:pointer;
+}
+
+.product{
+	font-size:20px;
+
+	
+}
+
+.enterprise{
+	display:flex;
+	justify-content:center;
+	text-align:center;
+	font-size:20px;
+}
+
+.footer{
+	padding-top:10px;
+margin:20px;
+padding:20px;
+cursor:pointer;
+
+}
+.item{
+	padding:8px;
+	
+}
+.item:hover{
+	color:red;
+}
+.datetime{
+font-size:20px;
+}
+
+.policy{
+	padding-top:5px;
+	padding:10px;
+	float:left;
+}
+.software{
+	float:right;
+	padding-right:10px;
+}
+
+	
+	
+	
+
+
+
+	
+
+	
+
+	
+
+
+	
+	
+
